@@ -1,14 +1,6 @@
 # Hackfest 2k22
 
-Team Project for Hackfest 2k22 Hackathon.
-<h3>Team Name : WEB DEMONS</h3>
-<h4> Team members : </h4>
-Bhimesh Agrawal (BACKEND AND INTEGRATION) <br/>
-Shubham Singh (FRONTEND AND INTEGRATION) <br/>
-Akash Mittal (FRONTEND) <br/>
-Syed Areeb (ML) <br/>
-Shubham Kurrey (UI/UX) <br/>
-<hr/>
+<hr>
 
 <b>Our Idea : </b>
 <p>We have created a platform where citizens would be able to upload the medicine's name they don't need anymore and then those medicines would be collected and re-distributed among needy people. Our application aims to reduce the medical wastage happening all over India by creating a simpler and easier way of communication between the citizens and the NGO's. This will also cut-off the demands of medicines and hence the cost.</p>
